@@ -1,0 +1,10 @@
+title = "Citizens of Earth"
+description = "\"Citizens of Earth is a role-playing video game developed by Eden Industries and published by Atlus for Microsoft Windows, PlayStation 4, PlayStation Vita, Wii U, and the Nintendo 3DS.\" (Source: Wikipedia)"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "000400000012C100"
+region = "usa"
+release_date = "2015-01-22"
